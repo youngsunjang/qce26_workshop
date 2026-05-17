@@ -1,4 +1,4 @@
-# qce26_workshop
+# qce26_poster
 
 This repository supports the QCE26 poster submission, **"A Small-Scale QCNN Benchmark for Multi-Class Synthetic Image Classification."** The repository contains dataset generation, QCNN training, and classical baseline notebooks.
 
