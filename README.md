@@ -4,14 +4,14 @@ This repository supports the QCE26 poster submission, **"A Small-Scale QCNN Benc
 
 ## Notebooks
 
-1. `generate_4x4_qcnn_dataset.ipynb`  
-   Generates the custom 4×4 synthetic image dataset with four classes: cross, square, triangle, and X.
+### `generate_4x4_qcnn_dataset.ipynb`
+Generates the custom 4×4 synthetic image dataset with four classes: cross, square, triangle, and X.
 
-2. `qcnn_4x4_multiclass_experiment.ipynb`  
-   Trains a shared-parameter 16-qubit QCNN using Qiskit Machine Learning.
+### `qcnn_4x4_multiclass_experiment.ipynb`
+Trains a shared-parameter 16-qubit QCNN using Qiskit Machine Learning.
 
-3. `classical_baselines_4x4_dataset.ipynb`  
-   Trains classical baselines, including Logistic Regression and a small MLP, using the same 16 input features.
+### `classical_baselines_4x4_dataset.ipynb`
+Trains classical baselines, including Logistic Regression and a small MLP, using the same 16 input features.
 
 ## Project Summary
 
